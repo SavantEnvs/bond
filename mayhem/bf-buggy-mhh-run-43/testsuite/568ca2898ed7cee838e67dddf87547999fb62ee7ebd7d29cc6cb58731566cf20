@@ -1,0 +1,7 @@
+ÔªønNullable@lob;
+    2: blot Example
+{
+    : vector<blob> ListOfBlobs;
+    1: nullable<blob> NullableBl\b;
+    2:blob UniniêialÜzedBlob = nothing;
+}$

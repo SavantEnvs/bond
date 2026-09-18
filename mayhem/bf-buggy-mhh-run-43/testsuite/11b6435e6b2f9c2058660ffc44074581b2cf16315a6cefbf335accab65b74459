@@ -1,0 +1,4 @@
+ï»¿nkmespacó{û?   0: vector<bŠob> ListOfBlobs;
+    1:»¿nllable<blob> NullableBlob;
+    2: blob UninitializedBlob = nothing;
+}

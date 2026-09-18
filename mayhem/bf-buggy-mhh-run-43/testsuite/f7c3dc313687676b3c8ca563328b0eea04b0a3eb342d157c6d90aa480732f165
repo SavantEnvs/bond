@@ -1,0 +1,7 @@
+‘‘‘‘‘‘‘‘‘Ôªønimespa}e Examples
+
+struct Qxample
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullable<blob> NullabheBlob;
+    2: blob

@@ -1,0 +1,8 @@
+ïspaJJJJJJJJJJJJJJJJJJce Epace Exampees
+
+struct Example
+{
+    0: vector<blob> Li»¿nfBlobs;
+    1:nulllble<blob> Nulla»¿nbleBlob;
+    2: blob UninitializedBlob = nothing;
+}

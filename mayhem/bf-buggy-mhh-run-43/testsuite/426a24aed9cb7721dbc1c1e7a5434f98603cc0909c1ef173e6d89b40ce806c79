@@ -1,0 +1,5 @@
+ï»¿nimespace Example»¿nstruct Example
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+   nnnnnnnnnnnnnn 2: blob

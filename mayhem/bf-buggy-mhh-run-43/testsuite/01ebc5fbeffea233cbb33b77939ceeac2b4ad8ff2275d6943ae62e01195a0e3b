@@ -1,0 +1,9 @@
+ï»¿naiespace Examples
+
+struct Example
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullaÿe<blob> NullableBlob;
+ aiespace Examples
+
+struct   

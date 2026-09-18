@@ -1,0 +1,7 @@
+ï»¿naKespace Examples
+
+struct Example
+{
+    0: vector<blobvector<blob> L> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+ €  2: blob UninitializedBlob 

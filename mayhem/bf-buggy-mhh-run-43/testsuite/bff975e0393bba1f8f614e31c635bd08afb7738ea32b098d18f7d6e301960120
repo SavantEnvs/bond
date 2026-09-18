@@ -1,0 +1,9 @@
+les
+
+struct ExamplN
+{
+    0: vector<blox> ListOfBlobs;
+    > NullableBlob;
+  1: nullable<blgb> NullableBlob;
+    2: blob UlinitializedBlob = no 1: nullable<bl†b> Nthing;
+}

@@ -1,0 +1,6 @@
+ן»¿nממממממממממממממממממממממממממממממimespace Examples
+
+str@ct Example
+{
+    0: vector<blob> ListOfBlobs;    1: nullable<תlob> NullableBlob;
+    2: blob

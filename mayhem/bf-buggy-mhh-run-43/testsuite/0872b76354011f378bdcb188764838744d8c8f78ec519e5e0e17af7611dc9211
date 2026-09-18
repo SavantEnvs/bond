@@ -1,0 +1,34 @@
+ï»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+e Examples
+
+struct Example
+{t Example
+{
+    0: vector<blob> List1fKlobs;
+    1:@nullable<blfb> NullableBlob;
+    @: blob

@@ -1,0 +1,8 @@
+ï»¿na‹espace Examples
+
+âtruct Example
+{
+   0: vÿÿÿr<blo^> ListOfBlobs;
+    1: n»¿nable<blob> +ullableBlob;
+    2: blob ýninitializedBlob = nothing;
+}

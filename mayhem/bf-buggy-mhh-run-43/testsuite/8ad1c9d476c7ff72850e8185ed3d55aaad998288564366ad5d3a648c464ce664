@@ -1,0 +1,7 @@
+﻿&&&&&&&&&&&&&&&les
+
+struct Example
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+  4 2: blob

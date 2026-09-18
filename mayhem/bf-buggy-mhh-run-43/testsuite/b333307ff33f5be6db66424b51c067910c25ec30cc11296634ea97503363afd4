@@ -1,0 +1,11 @@
+ï»¿nimespace Examples
+
+struÿÿmples
+
+struct Example
+{
+    0t Example
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullable<****************€ÿ******blob> NullableBlob;
+    2: blob

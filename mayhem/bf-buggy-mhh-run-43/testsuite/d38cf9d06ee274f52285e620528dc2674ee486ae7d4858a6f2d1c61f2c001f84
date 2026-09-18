@@ -1,0 +1,16 @@
+ï»¿
+
+
+
+
+
+
+
+
+ Examples
+
+struct Example
+{
+    0: vector<bloâ> ListOfBlobs;
+   1; nullable<blob> NullableBlob;
+    2: blob

@@ -1,0 +1,6 @@
+ï»¿naiespace Examples
+
+struc: Example
+{
+    0: vec„or<blob> ListOfBlobs;
+    1: nullable<blob> NuooooooooollableBlob;ÿÿ

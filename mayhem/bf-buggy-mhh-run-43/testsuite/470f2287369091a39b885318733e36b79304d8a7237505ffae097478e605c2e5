@@ -1,0 +1,6 @@
+ï»¿nimespace Examples
+
+struct Examp|e
+{
+    0:»¿n vector<blob> ListOfBlobs;
+    1: nullable<bl»¿nob> NullableBlbbbbbbbbbbbbbob

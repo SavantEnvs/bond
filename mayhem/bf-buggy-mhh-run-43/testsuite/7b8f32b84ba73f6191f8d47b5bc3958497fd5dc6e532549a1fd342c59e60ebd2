@@ -1,0 +1,8 @@
+ï»¿naèspace Exanples
+
+struct Exÿÿÿe
+{
+   0: —ector<blob> ListOfBlobs;
+    1: nuÿable< Lis> NullableBlob;
+    2: blob UninitializedBlob = nothing;
+t

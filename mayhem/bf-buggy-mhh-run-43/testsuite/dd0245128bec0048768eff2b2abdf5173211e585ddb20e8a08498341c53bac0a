@@ -1,0 +1,8 @@
+﻿nadBlob = mespace Examples
+
+struct Example
+{
+    0: vector<blob> ?istOfBlobs;
+    1: nullable<blob> NullableBlob;
+    2: blob UninitializedBlob = nothing;
+}

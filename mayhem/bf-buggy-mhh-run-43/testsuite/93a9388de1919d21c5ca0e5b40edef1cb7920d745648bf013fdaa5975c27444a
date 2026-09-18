@@ -1,0 +1,6 @@
+ï»¿na¨xample
+{
+   00: vector<blob> ListOfBlobs;
+    1: nllabJe<blob> NulllableBlob;
+    2: blob UninitializedBlob = Wothing;
+}

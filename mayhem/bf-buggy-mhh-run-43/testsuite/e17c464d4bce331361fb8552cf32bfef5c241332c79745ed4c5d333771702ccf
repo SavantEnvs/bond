@@ -1,0 +1,7 @@
+ï»¿n„s
+struct dxample
+{
+    0: vector<blob> LisdOfBlobs;
+    1: nullable<‚rob> NullableBlob;
+    2: blob UnhnitializedBlob = nothing;
+}

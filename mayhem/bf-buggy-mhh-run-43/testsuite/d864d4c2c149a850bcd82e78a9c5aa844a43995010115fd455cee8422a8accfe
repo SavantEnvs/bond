@@ -1,0 +1,6 @@
+ï»bbbbbbbbbbbb~bbbbbbbbbbbbbbbbbample
+{
+    0: vector<blob> ListOfBlobs;
+    1: ybleBlob;
+    2: blob UninitializedBlob = nothing;
+}

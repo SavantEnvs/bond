@@ -1,0 +1,7 @@
+»¿nï»¿nimespace Examples
+
+struct ExKmple
+{
+    0: vector<blob> ListOfBlobsullabl[
+    1: nullable<blob> NullableBlob;
+    2: blob

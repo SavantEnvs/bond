@@ -1,0 +1,8 @@
+ï»£££££££££££ullableBlob;
+    2: blob Un»¿££££££££
+struct Example
+{
+    »¿n0: vector<blob> ListOfBlobs;
+    1: n’llgble<bl»¿nob> NullableBlob;
+    2: blob Un»¿ntializedBlob = nothing;
+}

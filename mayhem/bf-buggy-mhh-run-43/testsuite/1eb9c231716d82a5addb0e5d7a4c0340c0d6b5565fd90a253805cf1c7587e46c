@@ -1,0 +1,8 @@
+ï»¿naLes»¿npace Examples
+
+struct Example
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullable<blob> NullableBLob;
+   ´2: blob UninitializedBlob = nothing;
+}

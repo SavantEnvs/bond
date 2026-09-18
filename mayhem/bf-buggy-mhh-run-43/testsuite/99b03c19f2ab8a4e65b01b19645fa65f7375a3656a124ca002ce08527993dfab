@@ -1,0 +1,8 @@
+ï»¿nmèpace 1xamples
+
+struct Example
+{
+    0: vector<blob> ListOf»·nbs;
+    1: nullþble<blob> NullableBlob;
+    2: blo = nothing;
+}

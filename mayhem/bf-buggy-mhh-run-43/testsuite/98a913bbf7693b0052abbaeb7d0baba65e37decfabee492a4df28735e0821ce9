@@ -1,0 +1,8 @@
+fBlobs;
+    1: n﻿naiespace Examples
+
+struct Example
+{
+    0: vector<blob> ListOfBlobs;
+    1: nu,lable<blob> NullableBlob;
+   

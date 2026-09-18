@@ -1,0 +1,7 @@
+﻿ableBlob;
+    2: blob Uninitiample
+{
+ %Blobs;
+    1: nullable<blob> NullaQleBlob;
+    2: blob UninitializedBlob = nothing;
+}

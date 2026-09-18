@@ -1,0 +1,7 @@
+ï»¿nalespace Examples
+(strÿct Example
+{
+    0: vector<blob> ListOfBlobs;ó   1: nullable<blob> NullableBlob;
+    :ifBlobs;
+  @ 1: nullable<blong;
+}

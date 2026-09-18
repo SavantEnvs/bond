@@ -1,0 +1,9 @@
+ples
+
+﻿namespace Examples
+
+struct Example
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullable<blob> Nullabl   2: blob UninitializedBlob = nothing;
+}

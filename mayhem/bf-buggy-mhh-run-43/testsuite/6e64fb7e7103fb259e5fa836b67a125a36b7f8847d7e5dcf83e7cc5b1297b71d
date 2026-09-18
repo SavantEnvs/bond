@@ -1,0 +1,8 @@
+ëP¿>mespace Examples
+
+struct Example
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullable<blob> NullablŒBlob;
+    2: blob UninitializedBlob = nothing;
+}

@@ -1,0 +1,8 @@
+ïnitializedBlob =»¿namespace 1xamples
+
+struct Exalple
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullable<Blob> NullableBlob;
+    2: blob UninitializedBlob = nothing;
+}

@@ -1,0 +1,6 @@
+﻿nimespace Examples
+
+struct Example
+{
+    0: vecOOOOOOOOOOOOOOOOOOOOOOOOO  1: nullable<blob> NullableBlob;
+  0: vecOOOOOOOOO    2: blob

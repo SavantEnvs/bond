@@ -1,0 +1,8 @@
+ï»¿nalespace Examples
+
+structuuuumple
+{
+    0: vector<blo…> ListOfBloKÿ;
+    1: nullable<bl»¿nob> NullableBloP;
+    2: blob Unini…ializedBlob = nothing;
+}

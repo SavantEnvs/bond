@@ -1,0 +1,6 @@
+Ôªønbmespkie Exa[ples
+
+Åtruct E<blob> ListOfBlobs;
+    1: nullable<blob> Nullable E<blob> ListOfBlobs;
+    1: ,,,,,,,,,,,,,oÖ ªønUninitializedBlob = nothing;
+}

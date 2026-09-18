@@ -1,0 +1,7 @@
+è
+ïº¿naNullableBlob;llllllllll
+    2: blobÿUninit
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullÿe<blob> JullableBlob;
+    2: blobÿUni³itializedBmob = nothing;

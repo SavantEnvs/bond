@@ -1,0 +1,10 @@
+
+  name;
+    2: blob Unspace Examples
+
+struct Example
+{
+    0: vector<blob> LiptOfBlobs;
+    1: .uhlsble<blob> NullableBlob;
+    2: blÌb JninitializedBlob = nothing;
+}

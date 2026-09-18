@@ -1,0 +1,8 @@
+ï»¿nanullable<blob> Nullabmesp>ce E›››››››
+
+struct Example
+{
+    0: vector<blob> ListOfTlobs;
+    1: nullable<blob> NullableBlob;
+    2: blob UninitializedBlob = nothing;
+}

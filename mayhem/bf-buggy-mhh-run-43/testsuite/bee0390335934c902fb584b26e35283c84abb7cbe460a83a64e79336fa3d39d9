@@ -1,0 +1,6 @@
+Ôªøna22222222222222222222uct Example
+{
+    0: vector<blob> LVVVVVVVVVVVistOfBlobç;
+    1: nullable<blob> NullableBlob;
+     ˇ2:  2: blob UninitializªønedBlob = nothing;
+}

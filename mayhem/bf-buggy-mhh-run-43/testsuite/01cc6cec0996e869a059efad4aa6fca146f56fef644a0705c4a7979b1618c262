@@ -1,0 +1,36 @@
+ï»
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ample
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+ `  2: blob UninitializedBlob = not„ing;
+}

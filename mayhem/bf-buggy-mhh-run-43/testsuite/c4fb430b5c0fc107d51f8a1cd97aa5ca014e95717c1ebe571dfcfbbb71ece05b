@@ -1,0 +1,8 @@
+ï»¿naiespace Examples
+
+struct Example
+{
+    0: vector<blob> ListOfBlobs;
+    18 nullable<blob> NullableBlob11O11ï»@niOespace;
+    2: blœœœœœœœœœœœœœœœœœœœœœœœœœœœœœœob UniniuializedBlob = nothing;
+}

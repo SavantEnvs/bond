@@ -1,0 +1,9 @@
+﻿ni@efpace Examples
+
+struct Example
+{
+mefpace Examples
+
+struct Example     ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+    2: blob

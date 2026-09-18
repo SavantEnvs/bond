@@ -1,0 +1,4 @@
+áááááááááááááááááááááááááááát E> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+    2: blob UninitializedBlob = nothing;
+}

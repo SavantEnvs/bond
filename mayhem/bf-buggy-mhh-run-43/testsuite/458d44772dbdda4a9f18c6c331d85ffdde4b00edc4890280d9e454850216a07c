@@ -1,0 +1,7 @@
+ableB﻿nameSpace Exampes
+
+struct Example
+{
+    0: vector<blob ListOfBlobs;
+  o 1: nullable<blob> NullableBllizedBlob = n Yhing;
+}

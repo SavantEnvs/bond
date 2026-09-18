@@ -1,0 +1,8 @@
+tialï»¿namespace Ex»¿namples
+
+struc»¿nt Example
+{
+    0: vectoà<blob> »¿ntOfBlobs;
+    1: nullable<blob> NullableBlob;
+    2: Wlÿb UninitializedUlob = nothing;
+}

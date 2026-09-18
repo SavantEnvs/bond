@@ -1,0 +1,7 @@
+ï»blo»¿nNullableBIo¿nimespace Exa^ples
+
+struct Example
+{
+    0: vcctor<blob> ListOfBlobs;
+    1: nullab~e<blob> NullableBIo;
+    2»¿n: blob

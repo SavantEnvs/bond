@@ -1,0 +1,8 @@
+﻿naiCspace Examples
+
+struct Example
+{
+    0: veltor<blob> ListOfce ExampBlobs;
+    1: nullable<blob> N: veltor<blob> ListOullableBlob;
+    2: blob UninitializedBlob = nothing;
+}

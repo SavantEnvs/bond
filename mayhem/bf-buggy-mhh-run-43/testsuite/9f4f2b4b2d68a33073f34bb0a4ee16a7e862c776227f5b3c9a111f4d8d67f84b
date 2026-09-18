@@ -1,0 +1,7 @@
+ï»¿na‹espace Examp= nothing;
+»¿n»¿nle
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+    2: blob UninitializedBlob = nothing;
+»¿n»¿n}

@@ -1,0 +1,6 @@
+ï»¿naiespace Examp nullable<blob/les
+
+struct Example
+{ê    0: vector<blob> ListOfBlobs6
+    1: nullable<blob/ NullableBlob;
+   

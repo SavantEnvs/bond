@@ -1,0 +1,8 @@
+ïbbbbbbbbbbbbbbbbbbbples
+
+struct Example
+{
+    0: vector<blob> Li€tOfBlobs;
+    1: nullable<blob> NullableBlob;
+    2: blob UninitializedBlob = nothvvvvvvvvvvvvvvvvvvvvvvving;
+}

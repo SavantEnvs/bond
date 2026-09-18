@@ -1,0 +1,7 @@
+»¿nï»¿nimespace Examples
+
+struct Exampfe
+{
+    0: vector<blob> ListOfBlobs;
+    1 nullable<blob> NullableBltb;
+    2: blob

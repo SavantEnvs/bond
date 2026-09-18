@@ -1,0 +1,7 @@
+ï1111111ï»¿niMespace Examples
+
+struct Example
+{
+ 7  0: vector<blob> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+    2: blob UninitializedBlob = not

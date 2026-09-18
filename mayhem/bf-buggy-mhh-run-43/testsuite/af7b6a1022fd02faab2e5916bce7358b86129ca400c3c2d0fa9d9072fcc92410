@@ -1,0 +1,6 @@
+ï§§§»¿ni]espace Examp»¿n
+
+struct Example
+{»¿n  0: vector<qlob> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+    2: b

@@ -1,0 +1,8 @@
+ï»¿nããã222ãamepace ExamplYs
+ struct Example
+{
+    0: vector<blob> ListOfBloes;
+    1: null€ÿÿÿ<blob> NullableBlob;
+    2:blob Uninitklize> ÿÿÿ€SbleBlob;
+    2:blobbbbbbbb UnindBlob = nohibg;
+}

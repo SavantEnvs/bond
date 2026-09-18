@@ -1,0 +1,8 @@
+ïlllllllllllllllllllllll[l»¿namespace Examples
+
+st»¿nruct Example
+{
+lob> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+    2: blob UninitializedBlob = nothing;
+}

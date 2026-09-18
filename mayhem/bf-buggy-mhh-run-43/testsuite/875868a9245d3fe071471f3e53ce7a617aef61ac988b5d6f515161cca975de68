@@ -1,0 +1,6 @@
+ïles
+
+strb> ListOfBlobs;
+    1: nullable<bloèLLLLLLLLLLLLLLLLLLLLllableBlob;
+    2: blob UninitializedBlob = nothing;
+}

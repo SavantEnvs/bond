@@ -1,0 +1,4 @@
+ï»¿naleslableBninitializtruct Example
+{    0: vector<blobH ListOfBlobs;
+    1: nullable<blob> NullableBninitializ»¿nedBlob = not»¿nhing;
+}

@@ -1,0 +1,7 @@
+ï»¿n«mespace Ex»¿namples
+
+struct Example
+{
+    0: vector<blob> ListOfBr<blob> ListBlob;
+    2: blob Unini€ializedBlob = nothing;
+}

@@ -1,0 +1,9 @@
+ï»¿ 2: blobnamespace Examples
+
+struct Example
+{
+    0: > ListOfBlobable<b¿nlob;
+    2: bl§b UninitsZ
+    1: nullable<b¿nlob;
+    2: blob UninitializedBlob = noth»¿ning;
+}

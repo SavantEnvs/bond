@@ -1,0 +1,9 @@
+﻿naiespace Examplee Examples
+
+struct s
+
+struct Example
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullable<bloaieb> NullableBlob;
+   

@@ -1,0 +1,7 @@
+﻿bbbbbbbnaiesp_ce Examples
+
+struct Exampl
+{
+    0: vectOr<blob> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+   

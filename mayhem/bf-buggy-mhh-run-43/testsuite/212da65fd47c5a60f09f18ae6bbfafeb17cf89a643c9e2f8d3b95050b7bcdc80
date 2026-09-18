@@ -1,0 +1,7 @@
+ïÿppppppppppppppppppppppppppppppace Examples
+
+struc»¿nt Example
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullab   0: vector<blob> ListOfBlK<ÿ»¿nob> NullableBlob;
+    2: blob

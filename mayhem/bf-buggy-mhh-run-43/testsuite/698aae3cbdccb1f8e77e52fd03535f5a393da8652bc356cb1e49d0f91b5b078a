@@ -1,0 +1,6 @@
+ï»¿nnnnnnnnnnnnnnnnnnnnnnruct Example
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullable<blo`> NullableBlob;
+  C 2: blob UÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙÙnothing;
+}

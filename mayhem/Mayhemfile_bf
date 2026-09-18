@@ -1,0 +1,11 @@
+project: savantenvs/bond
+target: bf-buggy-mhh-run-43
+# bf parses Bond-serialized data (CompactBinary/FastBinary/SimpleBinary/JSON), so random
+# bytes are rejected early — the seed set (compat-suite payloads in every wire protocol)
+# is what gives it coverage. Two-entry directive: server-accumulated corpus + git seeds.
+# mayhem-lint: keep-testsuite
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/bf-buggy-mhh-run-43/testsuite
+cmds:
+  - cmd: /mayhem/bf @@

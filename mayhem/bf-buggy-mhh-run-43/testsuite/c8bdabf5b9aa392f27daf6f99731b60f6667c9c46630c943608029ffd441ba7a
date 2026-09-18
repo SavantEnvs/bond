@@ -1,0 +1,8 @@
+ï»¿nkmespace Examples
+
+s÷ruct Example
+{
+    0: vector5blob> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+    2: blob UninitializedBlob = nothRng;
+}

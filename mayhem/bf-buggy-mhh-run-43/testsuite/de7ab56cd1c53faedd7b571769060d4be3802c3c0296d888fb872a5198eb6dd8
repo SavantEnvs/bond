@@ -1,0 +1,8 @@
+ï»¿naExa‰ples
+
+struct Example
+{
+    0: vector<blob> ListO`Blobs;
+    1: nèlable<blob> NullpbleBlob;
+    2: blob U initializedBlob = nothing;
+ï}

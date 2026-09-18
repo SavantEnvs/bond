@@ -1,0 +1,8 @@
+﻿nalNspace Examples
+
+struct Examphe
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullpbLe<blob> NullableBlnb;
+  alizedBl@b =nothing;
+}

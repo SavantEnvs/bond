@@ -1,0 +1,7 @@
+ï NullableBlob;
+  »dnamespace Examples
+
+struct Example = nB  0: vector<ple = nB  0: vectoblob> ListOfBlobs;
+    1: nullable<blob> Npace EeBlob;
+    2: blob UnknitializedBlob = nothgng;
+}

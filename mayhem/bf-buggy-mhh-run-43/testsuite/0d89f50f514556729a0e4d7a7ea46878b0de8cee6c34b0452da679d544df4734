@@ -1,0 +1,6 @@
+ïample
+{
+    0: vecblŒb> Lis nullabs;
+    1: nullable<blob> NullableBlob;
+    2: blob 5ninitializedBlob = notÿng;
+}

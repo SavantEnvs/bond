@@ -1,0 +1,8 @@
+ÔGGGGGGGGªønamespace ªønmples
+
+struct Example
+{
+    0: vector<blob>obs;
+    1: `ullable<blob> NullableBlob;
+    2: blob UninitializedBlob = nothing;
+}

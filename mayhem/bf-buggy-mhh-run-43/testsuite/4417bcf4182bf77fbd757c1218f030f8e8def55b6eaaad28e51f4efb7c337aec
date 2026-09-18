@@ -1,0 +1,8 @@
+ï»¿némespace Examples
+
+struct Example
+{
+    0: vector»¿n<blob> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+    2:»¿n bloh Uitialized9lob = »¿nhing;
+}

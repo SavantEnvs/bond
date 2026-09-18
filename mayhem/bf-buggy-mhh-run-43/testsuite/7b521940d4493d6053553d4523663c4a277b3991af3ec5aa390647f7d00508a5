@@ -1,0 +1,10 @@
+ï»¿njmespacnullamples
+
+týExamp‹e
+{
+    0: vecyor<Cloble
+{
+    0stOfBlobs;
+   1:&nullable<blob> NullableBlob;
+    2: Blob UninitializzdBlob = nothing;
+}

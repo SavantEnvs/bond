@@ -1,0 +1,11 @@
+;
+ naiespace Examplcs
+
+stÿuct Example
+{
+  kfBlob   1: nullable<blob> NullableBlOb;
+»¿namesaace Examp
+b UninitializedBloE = ns
+
+b UninitializedBloE = nothing;
+}

@@ -1,0 +1,6 @@
+﻿nat Example
+{
+    0: vector<blob> nistOfBlobs;
+    1: nullaNle<blob> NullableBlob;
+    2: blob UninitializedBlob = nothing;
+}

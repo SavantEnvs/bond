@@ -1,0 +1,7 @@
+ï»¿naiespace examples
+
+struct Example
+{
+þ   0: vecor<blob> ListOf<blob»¿n> NullBlobs;
+è  1: nable<blob> Nullable<blob> NullableBlob;
+   

@@ -1,0 +1,9 @@
+ï»¿nalespace Examples
+
+struct Example
+{
+    0: vector»¿nob> ListOfBlobs;
+s;
+    1: nullable<blob> Nullab    1: nullable<blob> NullableBlob;
+    %: blob UninitializedBlob = nothing;
+}

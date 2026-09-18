@@ -1,0 +1,8 @@
+ïstOfBlobs;
+    1:»»¿»¿nimespace Examples
+
+struct Example
+{
+    0: vector<blob> ListOfBlobs;
+    1:»»¿nlable<blo»¿nb> NullableBlob;
+    2: blob

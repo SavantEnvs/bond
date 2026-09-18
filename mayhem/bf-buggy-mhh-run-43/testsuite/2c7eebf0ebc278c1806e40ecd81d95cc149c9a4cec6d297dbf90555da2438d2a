@@ -1,0 +1,8 @@
+ï»¿na‰espace Examples
+
+struct Example
+{
+    0: vectOfBblob> Listor<lobs;
+    1: nullable<blob>
+    2: blob UninitializeHBlob = nothing;
+}

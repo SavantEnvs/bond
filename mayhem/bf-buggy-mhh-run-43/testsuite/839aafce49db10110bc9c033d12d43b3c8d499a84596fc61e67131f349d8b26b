@@ -1,0 +1,6 @@
+Ôªønbmespkie Examples
+
+Åtruct E<blob> ListOfBlobs;
+    1: nullable<blob> NullabneBlampleob;
+    2: plob ªønUninitializedBlob = nothing;
+}

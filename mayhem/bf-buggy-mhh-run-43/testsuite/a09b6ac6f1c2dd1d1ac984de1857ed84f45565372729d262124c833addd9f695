@@ -1,0 +1,7 @@
+ï»¿»¿nnaiespace Examples
+
+stru€t Example
+{
+    0: vector<blob> LVstOfBlobs;
+    1: nullable<blob> NuylableBlob;
+   

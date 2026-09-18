@@ -1,0 +1,7 @@
+ï»¿dçmespace Examples
+
+struct Example
+{
+    0: vector<blob> ListOfB[obs;
+    1: nullable<blob> Nb UninitializedBlob = nothing;
+}

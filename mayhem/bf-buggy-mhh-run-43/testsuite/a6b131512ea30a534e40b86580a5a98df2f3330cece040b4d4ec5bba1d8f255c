@@ -1,0 +1,12 @@
+ï»¿na
+{
+     Ex mples
+
+struct<blob> NullableBlo¿n Example
+{
+    0: vector<blob> List»¿nlobs;
+    1: nullable<blob> NullableBlo¿na
+{
+     b;
+    2:5blob UninitializedBlob @ nothing;
+}

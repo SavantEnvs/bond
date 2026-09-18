@@ -1,0 +1,6 @@
+яоооооооооооооооооооооооооооЛПnaiespace Examples
+
+struct Example
+{J    0: vector<blob> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+   

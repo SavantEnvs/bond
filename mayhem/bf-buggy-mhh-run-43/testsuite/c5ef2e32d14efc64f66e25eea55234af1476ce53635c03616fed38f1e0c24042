@@ -1,0 +1,6 @@
+﻿nagespaHe Examples
+
+struct Exampl0: vectorVblob> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+    2: blob UninitializedBlob =Nullabng;
+}

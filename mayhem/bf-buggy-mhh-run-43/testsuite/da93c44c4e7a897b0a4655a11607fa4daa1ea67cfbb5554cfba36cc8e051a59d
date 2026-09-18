@@ -1,0 +1,7 @@
+﻿naiespace Examples
+
+struct Example
+{
+    0: rector<blob> ListOfBlobs;
+    leBlob;
+   

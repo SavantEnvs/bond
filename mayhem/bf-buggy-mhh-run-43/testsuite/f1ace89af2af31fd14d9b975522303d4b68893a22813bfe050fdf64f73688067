@@ -1,0 +1,6 @@
+Ôªø÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷÷naiespace ExamplesÁ
+struct Example
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+   

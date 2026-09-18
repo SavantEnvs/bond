@@ -1,0 +1,7 @@
+ï»¿nal†space Examples
+
+stru†t Example
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullable<blob> NuPlableBlob;
+    2: blob UninitP

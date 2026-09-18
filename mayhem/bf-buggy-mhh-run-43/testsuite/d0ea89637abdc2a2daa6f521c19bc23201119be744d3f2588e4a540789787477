@@ -1,0 +1,12 @@
+ï»¿nnnnnnnnnnnnnnnn{
+    0: nnnnnne
+{
+    0: vs
+
+obs;  0: vs
+
+st<blob> LittOfBlobs;
+
+    1: nullable<blob> NullableBlob;
+    2: blobèninitializedBlob = nothing;
+}

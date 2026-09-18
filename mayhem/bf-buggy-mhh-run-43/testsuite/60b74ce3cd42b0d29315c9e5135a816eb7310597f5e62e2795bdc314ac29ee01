@@ -1,0 +1,6 @@
+ï»¿nimespace Examples
+
+struct Example
+{ö    0: vector<blob> ListOfBlobs;
+   /1: nullable<blob> NullableBlob;
+    2: blob UninitializedBlob = nothing;ÿ}

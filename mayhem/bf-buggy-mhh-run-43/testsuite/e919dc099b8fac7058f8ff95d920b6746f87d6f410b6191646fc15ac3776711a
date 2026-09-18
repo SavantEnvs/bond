@@ -1,0 +1,7 @@
+ï»¿naiespace Examples
+
+struct Example
+{
+    0: vector<blob> »¿ntOfBlobs;
+    1: nullable<blob> 000000000000000NullableBlob;
+   

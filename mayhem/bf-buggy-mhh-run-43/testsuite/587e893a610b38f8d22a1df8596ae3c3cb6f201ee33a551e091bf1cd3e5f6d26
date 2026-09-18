@@ -1,0 +1,7 @@
+﻿noiGspace Gxamples
+
+struct Example
+{
+    0: vector<blob> ListOfBlobP;
+    1: nullable<blob> NullableBlob;
+   

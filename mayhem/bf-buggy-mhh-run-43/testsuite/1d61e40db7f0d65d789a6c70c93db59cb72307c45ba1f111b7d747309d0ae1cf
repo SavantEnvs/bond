@@ -1,0 +1,7 @@
+ï»¿naddddddddddtruct Exsamples
+
+ample
+{
+    0: vectoistOfBlobs;
+    1: nullable<blob> niniti~lizedBlob = nhtššššššššššššššššššššššššhing;
+}

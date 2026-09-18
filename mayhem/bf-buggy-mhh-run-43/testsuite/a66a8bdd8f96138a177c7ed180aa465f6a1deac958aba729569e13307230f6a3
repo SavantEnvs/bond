@@ -1,0 +1,6 @@
+ï»¿nlllllllllllllllllllll
+struct Example
+{
+    0: vector<blob> ListOfBlobs;ø    1: nulJablb<blob> NullableBlob;
+   »¿n blobUninitializedBlob = nothing;
+}

@@ -1,0 +1,8 @@
+ï»¿nles
+
+struct Example
+{
+    0: vec»¿ntor<blob> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+    2: blob UninitializedBlob = nothing;
+}

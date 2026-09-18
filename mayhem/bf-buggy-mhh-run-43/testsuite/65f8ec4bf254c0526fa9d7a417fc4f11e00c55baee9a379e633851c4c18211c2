@@ -1,0 +1,8 @@
+»¿n`m
+
+struct Example
+{
+    0: vgctor<blob> ListOfBlobs;
+    1: nullable<blob> NulladleÂlob;
+   2: blob UninitializedBlob = nothing;
+»¿n}

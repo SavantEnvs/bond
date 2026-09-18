@@ -1,0 +1,6 @@
+or<bllob> Ôª‹naéesace Exale
+{
+   )0: vector<bllob> ListOfBlobs;
+0   1: nullable<blob> NullableBlob;
+    2: blob UninitializedBlob = nothing;
+}

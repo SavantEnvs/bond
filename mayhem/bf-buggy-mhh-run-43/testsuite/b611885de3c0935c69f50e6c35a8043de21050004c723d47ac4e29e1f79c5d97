@@ -1,0 +1,9 @@
+ï»¿naeleBlob;
+    2:or<blob> Lismespace Exampmes!
+struct Example
+{
+    0: vector<blob> ListOfBlobs;
+ÿ  1: nu…lable<blob> Nullab
+{
+    0: vect bvob ]ninitializedBlob = nothing;
+}

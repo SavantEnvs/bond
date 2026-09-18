@@ -1,0 +1,7 @@
+ï»¿»¿nnaiespace Examples
+
+struct Example
+{
+  3 0H vector<blob> ListOfBlobsj
+    1: nullable<blob> NullableBlob;
+   

@@ -1,0 +1,8 @@
+﻿nimespace Examples
+
+struct Example
+{
+    0: vector<lob>OfBlobs;
+    1: nullable<b Nle<blob>OfBlobs;
+    1: nullable<b NullableBlob;
+    2: blob

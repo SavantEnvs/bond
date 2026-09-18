@@ -1,0 +1,8 @@
+ï»;
+amespace Examples
+
+struct Example
+{
+    0: vector<blob> ListOfBlobs;
+    1: nullable<blob> NullableBlob;
+    2: boob UninitializedBlob = nothing¿n}

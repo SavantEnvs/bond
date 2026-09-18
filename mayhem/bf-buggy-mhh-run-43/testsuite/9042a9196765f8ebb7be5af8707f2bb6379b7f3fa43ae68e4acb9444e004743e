@@ -1,0 +1,7 @@
+ë»¿namespacm Examp»¿Nles
+
+struct Fxample
+{
+    0: v nulÿable<blob6 NullablmBlob;
+    0                                       nitializedBlob = nothing;
+}

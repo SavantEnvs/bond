@@ -1,0 +1,8 @@
+ï»¿nimesp»¿nace Examples
+
+strtOxample
+{
+    0: vecto <blob> ListO»¿nfBlobs
+    1»¿nullable<blob> Null7dleBlob;
+    2: blob Unini»¿nlizedBlob = nothing;
+}

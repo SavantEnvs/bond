@@ -1,0 +1,7 @@
+ïamples
+
+struct E»¿nple
+{
+    0: vector<clob> RistOfBlobs;
+    1: ullable<blob> NullableBlob»¿n   2: blob UninitializedBlob = nothiXg;
+}

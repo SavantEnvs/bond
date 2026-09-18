@@ -1,0 +1,7 @@
+imespace Examples
+
+struct Example
+{
+    0: vector<tlob> ListOfBlobs;
+    1: nullable<bloè NullableBXob;
+    2: blob
