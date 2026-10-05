@@ -1,0 +1,5 @@
+project: savantenvs/bond
+target: bf-buggy-mhh-run-43
+# origin: https://app.mayhem.security/mayhemheroes/bond/bf/43
+cmds:
+  - cmd: /mayhem/bf @@
